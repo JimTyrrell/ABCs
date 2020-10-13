@@ -10,7 +10,7 @@ All weeks are the same format:
  - A fun quote
  - A topic
  - A video
- - A defintion/s
+ - A definition/s
  - A Activity
  - Future Reading
  
