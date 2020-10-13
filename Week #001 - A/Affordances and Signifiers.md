@@ -1,7 +1,7 @@
 # The ABCs of Software UX - A
 
 ## The Quote This Week
-> Everything created by man/woman-kind is designed, thus, by the transitive property all software is designed.  
+> Everything created by humans is designed, software as a subset of everything, is therefore always designed.  
 > The Designatic
 
 ### The Topic
