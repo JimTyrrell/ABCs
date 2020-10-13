@@ -4,7 +4,7 @@ Welcome to a passion project of mine to help software developers be better devel
 
 Right now, just Week 1 is mostly done.
 
-Week 2-6 are inflight and I am still moving things around based on what I remember or think would work in a better place.
+Week 2-6 is inflight and I am still moving things around based on what I remember or think would work in a better place.
 
 All weeks are the same format:
  - A fun quote
