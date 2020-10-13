@@ -28,11 +28,11 @@
 
 ### The Activity
  - [10 Usability Heuristics for User Interface Design, **April 24, 1994**](https://www.nngroup.com/articles/ten-usability-heuristics/)  
-More than 25 years ago Jakob Nielsen created what is, and still the best checklist for evaluating software to see if it meets the needs of humans.  
+More than 25 years ago Jakob Nielsen created what is, and still the best checklist for evaluating software to see if it meets the needs of humans.  These 10 items in a  concise empower you to think about the signifiers and affordances of your software.  While you might think this list only applies to software with a GUI, I would argue that RESTful APIs, command-line programs, and general APIs will benefit from thinking about these 10 items and fairly grading your adherence and compliance to them.  Your first activity will be to use the linked to the spreadsheet below to score something you are working on, have worked on, or have used.    
 
-   Pick a specific feature flow, hopefully, something you don't work on every day, and use the below spreadsheet to score it.
-   [The Ten Heuristics Worksheet, make a copy to edit](https://docs.google.com/spreadsheets/d/1Gqoo_ORcSlXmj_EX_Xrih1BELiYv4HjqLaJlIhrxQ1U/edit?usp=sharing)  
-   Be readying to share this in our working session.
+   Pick a specific feature flow, hopefully, something you don't work on every day, and use the below spreadsheet to score it.  
+[The Ten Heuristics Worksheet, make a copy to edit](https://docs.google.com/spreadsheets/d/1Gqoo_ORcSlXmj_EX_Xrih1BELiYv4HjqLaJlIhrxQ1U/edit?usp=sharing)  
+   Be readying and excited to share this grading in our working session.
 
 ### The Insight  
  - [The business value of design](https://www.mckinsey.com/business-functions/mckinsey-design/our-insights/the-business-value-of-design)  

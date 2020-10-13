@@ -15,8 +15,6 @@
  - Captology  
    This 
 ### The Activity
-### The 4Cs of Code
- - Convention over Configuration over Compilation over Coding
 
 ### The Insight
  - [Addiction to a Language-Learning App Can Be Good for You January 3rd, 2019](https://www.bloomberg.com/news/articles/2019-01-03/addiction-to-a-language-learning-app-can-be-good-for-you)
@@ -30,3 +28,6 @@
  - Collaboration
  - Consistency
  - Customer Journey Map
+
+### The 4Cs of Code
+ - Convention over Configuration over Compilation over Coding
