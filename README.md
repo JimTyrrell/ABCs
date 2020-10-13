@@ -1,6 +1,6 @@
 # ABCs
 
-Welcome to a passion project of mine to help software developers be better developers.  
+Welcome to a passion project of mine to help software developers be better developers using the power of Design Thinking which includes a lot of science and some art to make better developers.
 
 Right now, just Week 1 is mostly done.
 
