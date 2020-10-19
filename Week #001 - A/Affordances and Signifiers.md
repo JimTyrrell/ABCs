@@ -32,7 +32,7 @@ More than 25 years ago Jakob Nielsen created what is, and still the best checkli
 
    Pick a specific feature flow, hopefully, something you don't work on every day, and use the below spreadsheet to score it.  
 [The Ten Heuristics Worksheet, make a copy to edit](https://docs.google.com/spreadsheets/d/1Gqoo_ORcSlXmj_EX_Xrih1BELiYv4HjqLaJlIhrxQ1U/edit?usp=sharing)  
-   Be readying and excited to share this grading in our working session.
+   Be ready and excited to share this grading in our working session.
 
 ### The Insight  
  - [The business value of design](https://www.mckinsey.com/business-functions/mckinsey-design/our-insights/the-business-value-of-design)  
