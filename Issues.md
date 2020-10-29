@@ -1,0 +1,1 @@
+1.  Remove "Always" from the question, "Are humans always rational and logical when it comes to decision making?"

@@ -9,6 +9,7 @@
 
 ### The Video
  - [Design Q & A with Charles Eames](https://www.youtube.com/watch?v=3xYi2rd1QCg)
+ - [How does User Experience affect Security](https://www.youtube.com/watch?v=9rwCYlDp4UU)
 ???
 
 ### The Definition
