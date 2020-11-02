@@ -16,10 +16,14 @@
   "Do you want to go bar hopping with me later?"   
 
 ### The Definitions
- - Confirmation Bias - Using new information to confirm one's existing theories, beliefs, and behaviors.  It is very easy as well trained and meaning computer software programming professionals to assume that all of the users of our software look like, think like, and are like us.  We also simply assume they are willing to spend the same amount of time we have in becoming effective users of the computer tools we take for granted.  Without going outside of our typical co-worker and early adopter bubble, we will miss the opportunities to learn about what our users need.    
- - Endowment Effect - Given a coffee mug first, you are less likely to give it up for a chocolate bar.  Given a chocolate bar, you are less likely to give it up for a coffee mug.  Things in your possession are more valuable to you, and by having them in you possession you will overvalue their value by 2 to 14x depending on the research.
- - Loss Aversion & Reference-Dependent - are two of the theoretical explanations of the Endowment Effect.  Losing something and fear of loss hurts or feels a lot worse than winning feels good.  
- I love college football, and when my two favorite teams are playing others, I ruminate over the loser, and will not enjoy the victory.
+ - Confirmation Bias  
+   Using new information to confirm one's existing theories, beliefs, and behaviors.  It is very easy as well trained and meaning computer software programming professionals to assume that all of the users of our software look like, think like, and are like us.  We also simply assume they are willing to spend the same amount of time we have in becoming effective users of the computer tools we take for granted.  Without going outside of our typical co-worker and early adopter bubble, we will miss the opportunities to learn about what our users need.    
+ - Endowment Effect  
+   Given a coffee mug first, you are less likely to give it up for a chocolate bar.  Given a chocolate bar, you are less likely to give it up for a coffee mug.  Things in your possession are more valuable to you, and by having them in you possession you will overvalue their value by 2 to 14x depending on the research.
+ - Loss Aversion & Reference-Dependent  
+   are two of the theoretical explanations of the Endowment Effect.  Losing something and fear of loss hurts or feels a lot worse than winning feels good.  
+   
+   I love college football, and when my two favorite teams are playing others, I ruminate over the loser, and will not enjoy the victory.
 
 ### The Activity
 Think about a few things you have interacted with or used in the last few weeks technology-wise.  Please bring a couple of examples of where you saw confirmation bias, endowment, and loss aversion at play.
