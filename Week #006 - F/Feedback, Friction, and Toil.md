@@ -16,10 +16,10 @@ If you have the time listen to the entire thing.  This is one of the best talks 
 
 ### The Activity
 #### The UX Assessment, easy as A, B, C and D.
-1. Deliver Delights- Does the program satisfy and excite humans that use it?
-2. Deliver Curations - Does the program deliver easy to use curated experiences?
-3. Deliver Basics - Does the program do what it promises to do? 
-4. Deliver Advantages -  Does the program do what it must do in the context of a competitive marketplace over and above anything existing?
+1. Deliver Advantages -  Does the program do what it must do in the context of a competitive marketplace over and above anything existing?
+2. Deliver Basics - Does the program do what it promises to do? 
+3. Deliver Complete Curations - Does the program deliver easy to use curated complete experiences for normal edge cases and error state?
+4. Deliver Delights- Does the program satisfy and excite humans that use it?
 
 ### The Insight
 The cookie research???
