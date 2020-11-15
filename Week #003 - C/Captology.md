@@ -37,6 +37,6 @@ Identify a software application or experience that either purposefully or by acc
  - ["When your boss is an algorithm", An article about the dangers of Addiction and Manipulation with Software](https://www.ft.com/content/88fdc58e-754f-11e6-b60a-de4532d5ea35) 
 
 ### Further Reading and Viewing
- - [A beautiful chart around many persuasion methods](./../../Images/Persuasion%20Interaction%20Design.pdf)
+ - [A beautiful chart around many persuasion methods](./../Images/Persuasion%20Interaction%20Design.pdf)
  - [Persuasive Technology, Chapter 8](http://captology.stanford.edu/wp-content/uploads/2011/11/Persuasive-Technology-Chapter-8_new.pdf)
  - [Another fun link about the challenges of consuming Open Source Projects](https://imgs.xkcd.com/comics/dependency.png)
