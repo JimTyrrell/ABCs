@@ -22,22 +22,22 @@
 ### The Definitions
    The Six Areas of Influence as defined by Robert Cialdini
 
-1. Reciprocity
+1. Reciprocity  
    People feel the need to return favors even if they are not asked for.  The very old saying, treat others as you wish to be treated is apt to describe this.  The video above, talks about the various ways tips can be increased by various ways of using Reciprocation.  Other studies have shown that telling soldiers or other workers that they are the best, will universally increase performance.
 
-2. Scarcity
+2. Scarcity  
    People like the things they can not have.  Remembering our lessons on Behavioral Economics, losses are must worse than winning.  As such, taking something away is painful and can make it appear to be more valuable.
-   
-3. Authority
+     
+3. Authority  
    Experts or people in uniforms are given much more credibility.  It is even possible to be introduced as the expert, by someone with a vested output in the outcome, and the audience will respect and listen to that introduced speaker with greater attention.  Think of the case of a sales rep introducing their engineer as the expert.  
 
-4. Consistency
+4. Consistency  
    People generally respond well to commitments and consistent behavior from others.  This is also a way in which you can change your own behavior by publicly announcing an intention to change.  
 
-5. Liking
+5. Liking  
    We like to like those we like.  Science tells us 3 things impact this.  People who are similar to us, people that pay us compliments, and cooperate with us.  Doing some small talk at the beginning of any activity, will enable you to work better with others.
     
-6. Consensus and Social Proof
+6. Consensus and Social Proof  
    Is the psychological and social phenomenon that guides other users to make the same decisions that others have made.  Think about some of the web applications that you have used in the last few weeks.  In just the last few weeks I have been prompted that some number of people are watching this item.  In the last few hours, so many people have bought insurance for this kind of item or purchase.  With social media, I am validated by how many likes, or comments happen on my posts.  This has given rise to Insta-palaces, places that are Instagram or social media worthy.  It can also prompt a rise in stress and other challenges with people's emotions.  
 
 ### The Activity
