@@ -12,7 +12,7 @@
 If you have the time listen to the entire thing.  This is one of the best talks around design and humans from someone who was a core influencer of the Java ecosystem at its inception.
 
 ### The Definition
- - Cognitive Friction 
+ - Extended Service Blueprint
 
 ### The Activity
 #### The UX Assessment, easy as A, B, C and D.

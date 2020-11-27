@@ -19,7 +19,7 @@
  - Extend
 
 ### The Activity 
- - Service Blueprint
+ - Service Blueprint Worksheet
 
 ## The Insight 
  - [CAMPING WORLD 200% revenue boost and 83% conversion lift with this approach](https://www.experiencedynamics.com/case-studies/camping-world)
