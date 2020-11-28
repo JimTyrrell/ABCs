@@ -22,7 +22,7 @@ Changing levels can give designers an opportunity to innovate. A gasoline pump c
 Where do you programming projects align to these 7 levels?
 Where should they align to these 7 levels?
 
-### The Videos  
+### The Videos  ????
  - [23:02 - Good design is something you can feel!!!](https://www.youtube.com/watch?v=nWTvXbQHwWs)
  - [James Gosling video](sadf)
  - [Design Q & A with Charles Eames](https://www.youtube.com/watch?v=3xYi2rd1QCg)
