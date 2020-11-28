@@ -27,7 +27,9 @@ If you have the time listen to the entire thing.  This is one of the best talks 
    - The expectation that a user will be a power user, even if they only use the tool once a week, month, quarter or year.  Humans are busy, and increasingly expect to be able to figure out an interface as they are dealing with it, as they easily use 100s of unique interfaces per day.  How many computers per day does the average person interact with, easily 100s if your include automobiles and the appliances in their house and in their pocket all with their own unique interface?
    - Forced upgrades or updates that require relearning how to use the tool, and in the worst cases immediately invalidates the user generated videos on YouTube that help others, and/or invalidates your own documentation either delivered as specific documentation or sources such as StackOverflow and user forums.
 
-How do you asses where you software exists in the context of Feedback, Friction, Toil and Invisibale Work?
+With these four categories, Feedback, Friction, Toil and, Invisiable work, combined with the Kathy Sierra video above, the more patience and work you expect of them, the harder it will be for them to be the power users and advocates you desire.
+
+How do you asses where you software exists in the context of Feedback, Friction, Toil and, Invisibale  Work?
 ### The ABCD Assessment
 Let me introduce you to:  
 The ABCD Assessment:  
