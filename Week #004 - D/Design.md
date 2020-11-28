@@ -5,7 +5,22 @@
 > The Designatic
 
 ### The Topic
-Design has many definitions and if you put 10 designers in a room, you will probably get 11 definitions.  The definition I use, Design is how something makes you feel.  For a developer, probably not the easiest of definitions to use, but these 6 modules give you methods to assess the feelings generated and gives you tools to discuss those outcomes in a structured way.  Design has a long history and can be grouped into 4 time periods as explained below.  
+Design has many definitions and if you put 10 designers in a room, you will probably get 11 definitions.  The definition I use, Design is how something makes you feel.  For a developer, probably not the easiest of definitions to use, but these 6 modules give you methods to assess the feelings generated and gives you tools to discuss those outcomes in a structured way.  Design has a long history and can be grouped into 4 time periods as explained below.
+Jay Doblin, is one of the most influential Designers that the world has never heard of.  From 1955 to 1969 he was the dean at the Institute of Design in Chicago.  He wrote many things, and one of the most interesting pieces are the Seven Levels of Design:
+
+>LEVELS OF DESIGN  
+Changing levels can give designers an opportunity to innovate. A gasoline pump can be used as an example:  
+> - LEVEL 1: The designer accepts the pump’s performance but shortens and cleans up its form.
+> - LEVEL 2: Performance improvements are made. Either money, gallonage, or fillip can be punched directly. Inserted credit card automatically bills the customer.
+> - LEVEL 3: Changes the basic mechanism. The station is like a parking lot where hoses are pulled from trap doors below ground. All the controls are on the nozzle.
+> - LEVEL 4: Involves products which are outside the company’s control. No liquid fuel is pumped; pressurized cartridges are inserted into the car. One cartridge fits all cars (like sealed beam headlamps), a one-price sale.
+> - LEVEL 5: The service performed is changed; there are no more gas stations. Fuel cartridges are bought anywhere, like beer.
+> - LEVEL 6: The service is eliminated; cars never need refueling, they run indefinitely on atomic power.
+> - LEVEL 7: Transportation is eliminated; all human contact is by telecommunications.  
+> Jay Doblin, September 15, 1978 [Innovation: A Cook Book Approach](https://www.doblin.com/our-thinking/innovation-a-cook-book-approach)
+
+Where do you programming projects align to these 7 levels?
+Where should they align to these 7 levels?
 
 ### The Videos  
  - [23:02 - Good design is something you can feel!!!](https://www.youtube.com/watch?v=nWTvXbQHwWs)
@@ -18,7 +33,7 @@ Design has many definitions and if you put 10 designers in a room, you will prob
   Design means many different things to many different people.  From various talks attended over the years, and from other research, design can loosely be grouped into four different time periods.  
   1. The beginning of society to the 1960s  
     Craftwork ending with Widespread Mass Production  
-    This time period encompasses most of human history, but in the context of Design it is signified by individual craft work at its beginning, but culminates with mass production and industrialization as still exists today.  Design during this time was generally thought of in the context of low-fidelity incremental innovation, such as a new flavor, or adding a new color to existing products.  Many people and organizations still rely on this incremental innovation to power their businesses today.  By extension many software projects still fall into this incremental and me too approach when it comes to innovation.  As this time period wraps up most items could be marketed by buying time with one of the three major networks in the United States.  The requirements and needs of society were not as complex, and often the designer could reason their way to solving design issues of the day.
+    This period encompasses most of human history, but in the context of Design it is signified by individual craftwork at its beginning, but culminates with mass production and industrialization as still exists today.  Design during this time was generally thought of in the context of low-fidelity incremental innovation, such as a new flavor, or adding a new color to existing products.  Many people and organizations still rely on this incremental innovation to power their businesses today.  By extension many software projects still fall into this incremental and me too approach when it comes to innovation.  As this period wraps up most items could be marketed by buying time with one of the three major networks in the United States.  The requirements and needs of society were not as complex, and often the designer could reason their way to solving design issues of the day.
 
   2. 1960s to 1990s  
   Mass Marketing and The Expansion of Media  
@@ -30,9 +45,12 @@ Design has many definitions and if you put 10 designers in a room, you will prob
   
   4.  2010 to present  
   Mass Computerization, Big Data, and Ubiquitous Computing  
-  The iPhone ushers in an era of ease of use unprecedented in Design and Computing up to that point that becomes an inflection point, and begins a transformation of society that is still occurring to this day.  The app store launches in 2008, and begins consumers love affair with the next app in, when an downloaded application does not live up to the users needs.  Our smart phones become tethers to our friends, family, and work.  These devices are constantly delivering location, use, shopping and other  information as Big Data to Apple, Google, Facebook, Amazon, and others to slice and dice profiles of users.  Design ends up using this information to foster addiction, general changes in human behavior, and emotional impacts that are just now only being understood.  Leaders in Design are beginning to ask Should We, instead of Could We around new services and offerings.  The ethics of all this data, tracking, and influence peddling is being assessed and changes to how this works will be discussed and changed in the coming years by Design and Designers, by extension Software Developers. 
+  The iPhone ushers in an era of ease of use unprecedented in Design and Computing up to that point that becomes an inflection point, and begins a transformation of society that is still occurring to this day.  The app store launches in 2008, and begins consumers' love affair with the next app in, when a downloaded application does not live up to the user's needs.  Our smart phones become tethers to our friends, family, and work.  These devices are constantly delivering location, use, shopping and other  information as Big Data to Apple, Google, Facebook, Amazon, and others to slice and dice profiles of users.  Design ends up using this information to foster addiction, general changes in human behavior, and emotional impacts that are just now only being understood.  Leaders in Design are beginning to ask Should We, instead of Could We around new services and offerings.  The ethics of all this data, tracking, and influence peddling is being assessed and changes to how this works will be discussed and changed in the coming years by Design and Designers, by extension Software Developers. 
 ### The Activity
-New Persona Worksheet
+Persona for Developers Worksheet  
+Make a copy of the below worksheet, it can be used either as a starting point, or as a way to assess how you are meeting the needs of your users.  My thinking is that only of these should exist for a product or feature.  I've seen too many times, that developers will point to the persona that meets the needs of what they think a product should do, ignoring the requirements of vast quantities of needs for other users.  
+**All comments welcome!!!**  
+[Persona for Developers Worksheet](https://docs.google.com/spreadsheets/d/1t5M4xSZtHWSw1oyzgc9UgF7Tj2Y4T0L6-mezvF0dUq4/edit?usp=sharing)
 
 ### The Insight
  - [The Meaning of Design](https://medium.com/google-design/the-meaning-of-design-44f1a82129a8)
@@ -40,4 +58,8 @@ New Persona Worksheet
 ### Further Reading and Viewing
  - [Page 11, Don’t blame the developers:
 making security usable for IT professionals.](https://research.redhat.com/wp-content/uploads/2020/02/RHRQ-v2.2-digital.pdf)  
-This is an amazing article that speaks to the requirements of good user experience dovetailing with security and that you can not have good security without also having good human centered design.  In other words, if your users can not make good choices in the context of security, you are dooming them to having intrinsic issues around  security in the context of your offering.
+This is an amazing article that speaks to the requirements of good user experience dovetailing with security and that you can not have good security without also having solid Human-Centered design.  In other words, if your users can not make good choices in the context of security, you are dooming them to having intrinsic issues around  security in the context of your offering.
+- [Jay Doblin's Innovation: A Cook Book Approach](https://www.doblin.com/our-thinking/innovation-a-cook-book-approach)
+- Another article around the 7 Levels of design by another graduate of the ID program.  
+[Jim Kingsberg, The Seven Levels of Design
+A Thought Experiment to Help Teams Transform and Transcend Problems](https://journal.highlandsolutions.com/the-seven-levels-of-design-aee7353cba06)
