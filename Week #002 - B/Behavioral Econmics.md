@@ -11,7 +11,7 @@
 
 ## The Video
    [Dan Ariely, Are We in Control of our own Decisions?](https://www.ted.com/talks/dan_ariely_are_we_in_control_of_our_own_decisions?language=en)  (20 Minutes)   
-   In this 2006 video, Dan introduces you to the topic of Human Behavioral Economics.  Pay attention to the concepts of loss aversion around "The Economist" website example around minute 12.  Stay for the next section about the decision-making randomness of even well-trained professionals, in this case, even Doctors are susceptible.  Please note the examples given around how a throw away "non-choices" can push different groups of people too very different decisions.  
+   In this 2006 video, Dan introduces you to the topic of Human Behavioral Economics.  Pay attention to the concepts of loss aversion around "The Economist" website example around minute 12.  Stay for the next section about the decision-making randomness of even well-trained professionals, in this case, even Doctors are susceptible.  Please note the examples given around how a throwaway "non-choices" can push different groups of people too very different decisions.  
  
   However, the most important question is?   
   "Do you want to go bar hopping with me later?"   
