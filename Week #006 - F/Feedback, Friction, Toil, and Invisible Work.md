@@ -27,12 +27,13 @@ If you have the time listen to the entire thing.  This is one of the best talks 
    - The expectation that a user will be a power user, even if they only use the tool once a week, month, quarter, or year.  Humans are busy, and increasingly expect to be able to figure out an interface as they are dealing with it, as they easily use 100s of unique interfaces per day.  How many computers per day does the average person interact with, easily 100s if your include automobiles and the appliances in their house and in their pocket all with their unique interface?
    - Forced upgrades or updates that require relearning how to use the tool, and in the worst cases immediately invalidates the user-generated videos on YouTube that help others, and/or invalidates your own documentation either delivered as specific documentation or sources such as StackOverflow and user forums.
 
-With these four categories, Feedback, Friction, Toil, and Invisible work, combined with the Kathy Sierra video above, the more patience and work you expect of them, the harder it will be for them to be the power users and advocates you desire.
+With these four categories, Feedback, Friction, Toil, and Invisible work, combined with the Kathy Sierra video above, the more patience and work you expect of them, the harder it will be for them to be the power users and advocates you desire.  More importantly, asking too much of your users will violate the trust they have put into your product or service.
 
 How do you assess where your software exists in the context of Feedback, Friction, Toil, and Invisible  Work?
 ### The ABCD Assessment
 Let me introduce you to:  
-The ABCD Assessment:  
+The UX Assessment
+Easy as A, B, C, and D. 
 Before you Do Anything(Design, Develop, Deploy, Defend, and Determine your Software)
 You must deliver:
 1. Advantages -  Does the program do what it must do in the context of a competitive marketplace over and above anything existing?
@@ -41,10 +42,15 @@ You must deliver:
 4. Delights- Does the program satisfy and excite humans that use it?
 
 ### The Activity
-#### The UX Assessment, easy as A, B, C and D.
-Use the ABCD Assessment to score something you are thinking of working on or have delivered?  This can be something you are doing, or a tool you are using from the marketplace?
+#### The UX Assessment, easy as A, B, C, and D.
+Use the ABCD Assessment to score something you are thinking of working on or have delivered?  
+This can be something you are doing, or a tool you are using from the marketplace.  
+[Feel free to "Make a copy" of this worksheet and make changes.](
+https://docs.google.com/document/d/1PL0is4_nGjOYL9kv-mz2y6YrY1UwyyW9yeCuo2OmMSU/edit?usp=sharing)
 
 ### The Insight
-The cookie research???
+[An article about ground breaking research into how Self-Control can be depleted and used up.](https://www.theatlantic.com/health/archive/2012/04/the-chocolate-and-radish-experiment-that-birthed-the-modern-conception-of-willpower/255544/)  
+What consequences does this have for the programs we are creating, and what does it do to us as developers?
+What does this insight do for our users?
 
 ## Further Reading and Viewing

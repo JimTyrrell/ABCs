@@ -6,6 +6,7 @@
 
 ### The Topic
 Design, has many definitions and if you put 10 designers in a room, you will probably get 11 definitions.  The definition I use, Design is how something makes you feel.  For a developer, probably not the easiest of definitions to use, but these 6 modules give you methods to assess the feelings generated and gives you tools to discuss those outcomes in a structured way.  Design, has a long history and can be grouped into 4 time periods as explained below.
+
 Jay Doblin, is one of the most influential Designers that the world has never heard of.  From 1955 to 1969 he was the dean at the Institute of Design in Chicago.  He wrote many things, and one of the most interesting pieces are the Seven Levels of Design:
 
 >LEVELS OF DESIGN  
@@ -19,14 +20,18 @@ Changing levels can give designers an opportunity to innovate. A gasoline pump c
 > - LEVEL 7: Transportation is eliminated; all human contact is by telecommunications.  
 > Jay Doblin, September 15, 1978 [Innovation: A Cook Book Approach](https://www.doblin.com/our-thinking/innovation-a-cook-book-approach)
 
-Where do you programming projects align to these 7 levels?
+How do programming projects that you are working on align to these 7 levels?
 Where should they align to these 7 levels?
 
-### The Videos  ????
- - [23:02 - Good design is something you can feel!!!](https://www.youtube.com/watch?v=nWTvXbQHwWs)
- - [James Gosling video](sadf)
- - [Design Q & A with Charles Eames](https://www.youtube.com/watch?v=3xYi2rd1QCg)
- - [How does User Experience affect Security 16 mins](https://www.youtube.com/watch?v=9rwCYlDp4UU)
+### The Videos
+ - [23:02 - 30:06 Chris Lattner from the Lex Fridman podcast, and an amazing interview.](http://www.youtube.com/watch?v=nWTvXbQHwWs&t=22m59s)  
+   No need to listen to the whole thing, but for the purposes of design, about 7 minutes and change that speaks to design, especially in the context of programming.  He speaks to the challenges of design, and my favorite quote from this is, "Good design is something you can feel!!!"
+they are!!!  Note how he noticed they were making some of the same mistakes they had made earlier.
+  - [10:36 - 19:45 James Gosling from the Lex Fridman podcast, ](https://www.youtube.com/watch?v=IT__Nrr3PNI&t=10m36s)
+  A great insight that computers could be anything and everything, and if you remember from week 1, this is an opportunity and a challenge.  "Arbitrarily complicated things and I didn't need any physical materials." at 18:18 is brilliant
+  - [1:11:03 - 1:17:23, or to 1:20:10 James Gosling from the Lex Fridman podcast, ](https://www.youtube.com/watch?v=IT__Nrr3PNI&t=71m2s)
+  The origin of Java, and a great insight into how Design happened in the beginnings of Java.  I love the story of visiting people and seeing their challenges first hand.  Road trips, and visiting users where they are.
+ - [How does User Experience affect Security 16 mins, a talk from a Red Hatter](https://www.youtube.com/watch?v=9rwCYlDp4UU)
 
 ### The Definition  
   Design History
@@ -43,7 +48,7 @@ Where should they align to these 7 levels?
   Personal Computers, and the Proliferation and Use of World Wide Supply Lines  
   During this period personal computers become standard for employee desks, the internet becomes ubiquitous for most of the first world, and you get the build-out and completion of worldwide supply chains.  These supply lines can bring nearly anything from anywhere to your doorstep either physically or more importantly for technology adoption, virtually.  Design and Design Thinking becomes a discipline taught in MBA programs the world over.  Mass surveillance and sentiment analysis of consumers either via direct primary research or via ethnography drives innovations at countless companies.  During this time the Designer as a power user of color, art, fonts, and layout is replaced by organizations that use Human-Centered Design and finding empathy with your end-users to create next-level experiences for consumers and fostering disruptive innovation as a practice.  Apple rises from the dead to eventually become the most valuable company, for a time, on the planet by doing Human-Centered Design.  Most importantly Apple launches the iPhone in 2007, and begins the transformation of using the Human Stylus, the finger, as the way in which most people will interact with Technology.  
   
-  4.  2010 to present  
+  4.  2010 to present, some call this the Fourth Industrial Revolution 
   Mass Computerization, Big Data, and Ubiquitous Computing  
   The iPhone ushers in an era of ease of use unprecedented in Design and Computing up to that point that becomes an inflection point, and begins a transformation of society that is still occurring to this day.  The app store launches in 2008, and begins consumers' love affair with the next app in, when a downloaded application does not live up to the user's needs.  Our smart phones become tethers to our friends, family, and work.  These devices are constantly delivering location, use, shopping and other  information as Big Data to Apple, Google, Facebook, Amazon, and others to slice and dice profiles of users.  Design ends up using this information to foster addiction, general changes in human behavior, and emotional impacts that are just now only being understood.  Leaders in Design are beginning to ask Should We, instead of Could We around new services and offerings.  The ethics of all this data, tracking, and influence peddling is being assessed and changes to how this works will be discussed and changed in the coming years by Design and Designers, by extension Software Developers. 
 ### The Activity
