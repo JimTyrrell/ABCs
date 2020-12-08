@@ -30,7 +30,7 @@ If you have the time listen to the entire thing.  This is one of the best talks 
 With these four categories, Feedback, Friction, Toil, and Invisible work, combined with the Kathy Sierra video above, the more patience and work you expect of them, the harder it will be for them to be the power users and advocates you desire.  More importantly, asking too much of your users will violate the trust they have put into your product or service.
 
 How do you assess where your software exists in the context of Feedback, Friction, Toil, and Invisible  Work?
-### The ABCD Assessment
+### The UX Assessment, easy as A, B, C, and D.
 Let me introduce you to:  
 The UX Assessment
 Easy as A, B, C, and D. 
@@ -43,7 +43,7 @@ You must deliver:
 
 ### The Activity
 #### The UX Assessment, easy as A, B, C, and D.
-Use the ABCD Assessment to score something you are thinking of working on or have delivered?  
+Use the assessment to writeup something you are thinking of working on or have delivered?  
 This can be something you are doing, or a tool you are using from the marketplace.  
 [Feel free to "Make a copy" of this worksheet and make changes.](
 https://docs.google.com/document/d/1PL0is4_nGjOYL9kv-mz2y6YrY1UwyyW9yeCuo2OmMSU/edit?usp=sharing)

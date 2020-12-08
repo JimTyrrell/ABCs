@@ -25,7 +25,9 @@
    This one is often forgotten, but what do we do to extend the interaction with us?  How to we make sure they stay aware of what we are doing, and how we can help them in the future?  What cadence of engagement do we want to foster with them over time and how do we make that happen?
 
 ### The Activity 
- - Service Blueprint Worksheet
+ - Service Blueprint Worksheet  
+   This is a worksheet to get you thinking about how the 5 steps of any experience, captology, behavioral economics, the emotional state of the user, and the things you need to create for them to use to round out a complete experience.  Of course you can have any number of each of the 5Es, but they do go in order.  This tool can be used to map to an existing or a future experience, feel free to use it for either.  Duplicate the sheet below and have fun.  
+[Service Blueprint Worksheet](https://docs.google.com/spreadsheets/d/1WNQXRJveIzrFFT19zEvUqmdhIS_vSGm-yemSsFzEOzo/edit?usp=sharing)
 
 ## The Insight 
  - [CAMPING WORLD 200% revenue boost and 83% conversion lift with this approach](https://www.experiencedynamics.com/case-studies/camping-world)
