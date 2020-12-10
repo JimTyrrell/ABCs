@@ -30,7 +30,7 @@ If you have the time listen to the entire thing.  This is one of the best talks 
 With these four categories, Feedback, Friction, Toil, and Invisible work, combined with the Kathy Sierra video above, the more patience and work you expect of them, the harder it will be for them to be the power users and advocates you desire.  More importantly, asking too much of your users will violate the trust they have put into your product or service.
 
 How do you assess where your software exists in the context of Feedback, Friction, Toil, and Invisible  Work?
-### The UX Assessment, easy as A, B, C, and D.
+### The UX Assessment, easy as A, B, C, D, and E.
 Let me introduce you to:  
 The UX Assessment
 Easy as A, B, C, and D. 
@@ -40,9 +40,10 @@ You must deliver:
 2. Basics - Does the program do what it promises to do? 
 3. Complete Curations - Does the program deliver easy to use curated complete experiences for normal edge cases and typical, possible error states?
 4. Delights- Does the program satisfy and excite humans that use it?
+5. Enlightenment - Does the service offering take the human to their next level?
 
 ### The Activity
-#### The UX Assessment, easy as A, B, C, and D.
+#### The UX Assessment, easy as A, B, C, D, and E.
 Use the assessment to writeup something you are thinking of working on or have delivered?  
 This can be something you are doing, or a tool you are using from the marketplace.  
 [Feel free to "Make a copy" of this worksheet and make changes.](
