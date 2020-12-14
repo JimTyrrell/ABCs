@@ -36,11 +36,11 @@ The UX Assessment
 Easy as A, B, C, and D. 
 Before you Do Anything(Design, Develop, Deploy, Defend, and Determine your Software)
 You must deliver:
-1. Advantages -  Does the program do what it must do in the context of a competitive marketplace over and above anything existing?
-2. Basics - Does the program do what it promises to do? 
-3. Complete Curations - Does the program deliver easy to use curated complete experiences for normal edge cases and typical, possible error states?
-4. Delights- Does the program satisfy and excite humans that use it?
-5. Enlightenment - Does the service offering take the human to their next level?
+1. Advantages -  Does the offering do what it must do in the context of a competitive marketplace over and above anything existing?
+2. Basics - Does the offering do what it promises to do? 
+3. Complete Curations - Does the offering deliver easy to use curated complete experiences for normal edge cases and typical, possible error states?
+4. Delights- Does the offering satisfy and excite humans that use it?
+5. Enlightenment - Does the offering make the user a better person and more engaged with what they do?
 
 ### The Activity
 #### The UX Assessment, easy as A, B, C, D, and E.
